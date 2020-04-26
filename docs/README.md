@@ -1,10 +1,10 @@
 This folder contain the new version of the web for wuhan2020-timeline projects.
 
-* Official website: https://pratitya.github.io/wuhan2020-timeline/
-
+* ~~Official website: https://pratitya.github.io/wuhan2020-timeline/~~
+* backup website :https://lestweforget.github.io/COVID-19-Timeline/
 * Preview website: https://weileizeng.github.io/wuhan2020-timeline/
 
-### [Sitemap](https://weileizeng.github.io/wuhan2020-timeline/sitemap)
+### [Sitemap](https://lestweforget.github.io/COVID-19-Timeline/sitemap/)
 * home page
 * reversed/latest
 * about
