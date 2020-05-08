@@ -2054,4 +2054,4 @@ on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/
 【国际】<br>
 * [tass](https://tass.ru/obschestvo/8263303)：俄罗斯总统普京宣布俄罗斯推迟原定5月9日的莫斯科红场的胜利日阅兵。<br>
 * [联合早报](https://www.zaobao.com.sg/realtime/singapore/story20200416-1046042)：新加坡4月16日激增728起冠病病例，再破单日最高增幅纪录，当中多达654起来自客工宿舍。这使新加坡总病例增至4427起。<br>
-<br><a name="bottom">[回到顶部](#top) </a>
+<br><a name="bottom">[回到顶部](#top) </a> | host on Now.sh
