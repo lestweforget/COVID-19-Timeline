@@ -1,10 +1,12 @@
 COVID-19-timeline
 ====================
 
-*说明：本项目已由于不知名原因，很多内容消失了（见[这里](https://github.com/jarrywangcn/wuhan2020-timeline)）。此为灾备保存版，更新周期：2020年1月26日至4月17日。感谢原有的志愿者的辛劳付出，lest we forget, and we will NOT.* 
+*说明：本项目已由于不知名原因，很多内容消失了（见[这里](https://github.com/jarrywangcn/wuhan2020-timeline)）。此为灾备保存版，更新周期：2020年1月26日至4月17日。感谢原有的志愿者的辛劳付出，lest we forget, and we will NOT.*  
 
-[疫情与舆情：武汉肺炎时间线TIMELINE](https://lestweforget.github.io/COVID-19-Timeline/)
+[疫情与舆情：武汉肺炎时间线TIMELINE](https://lestweforget.github.io/COVID-19-Timeline/) 
 ===========================================================
+
+* Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/) *
 
 凡例
 ====
