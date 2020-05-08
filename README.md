@@ -6,7 +6,7 @@ COVID-19-timeline
 [疫情与舆情：武汉肺炎时间线TIMELINE](https://lestweforget.github.io/COVID-19-Timeline/) 
 ===========================================================
 
-* Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/) *
+*Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/)*
 
 凡例
 ====
