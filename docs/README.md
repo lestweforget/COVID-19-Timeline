@@ -28,4 +28,6 @@ The original files are in the root folder. All files for the website are in this
 - [x] In README.md, the | should replace by dot by hand.
 - [x] Add "scroll to bottom button in index"
 
+### Update to Now.sh and Netlify
 
+- Edit the index.html in '_site' 
