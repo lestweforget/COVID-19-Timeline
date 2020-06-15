@@ -30,4 +30,4 @@ The original files are in the root folder. All files for the website are in this
 
 ### Update to Now.sh and Netlify
 
-- Edit the index.html in '_site' 
+- Edit the index.html in ' _site ' 
