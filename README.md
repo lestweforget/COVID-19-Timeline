@@ -8,6 +8,10 @@ COVID-19-timeline
 
 *Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/)*
 
+*For English*
+
+# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline TIMELINE](https://github.com/sexychina/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md)
+
 凡例
 ====
 *  时间线梳理以官媒信息为经，以市场化媒体、自媒体为纬，以事系日，着力关注疫情扩散与舆论场域，力图呈现新冠肺炎始末。（[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)项目自1月28日每天发布关于海外疫情的详尽信息，可资参考。）
