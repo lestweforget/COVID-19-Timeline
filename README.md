@@ -8,7 +8,7 @@ COVID-19-timeline
 
 *Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/)*
 
-*For English*
+### *For English*
 
 # [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline TIMELINE](https://github.com/sexychina/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md)
 
