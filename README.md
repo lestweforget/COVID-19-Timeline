@@ -10,7 +10,9 @@ COVID-19-timeline
 
 ### *For English*
 
-# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline TIMELINE](https://github.com/sexychina/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md)
+# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline TIMELINE](https://github.com/lestweforget/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md)
+
+([origin](https://github.com/sexychina/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md))
 
 凡例
 ====
