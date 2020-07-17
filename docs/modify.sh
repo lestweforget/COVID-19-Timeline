@@ -4,6 +4,7 @@
 # replace | 
 #sed  's/|/\\|/g' ../时间线TIMELINE.md > index.md
 sed  's/|/·/g' ../时间线TIMELINE.md > index.md
+sed  's/|/·/g' ../时间线TIMELINE.en.md > en.md
 
 # extract data and save some formated file like reversed.md. no package needed so far
 #pip3 install -r requirement.txt
@@ -15,3 +16,4 @@ echo "<br><a name=\"bottom\">[回到顶部](#top) </a>" >> index.md
 
 # add about page from readme
 cp ../README.md about.md
+
