@@ -1,8 +1,8 @@
-Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline TIMELINE:[中文版本](./)
+Wuhan Coronavirus Timeline: How & When it Breakout and Spread
 ==============
 Wuhan Coronavirus Timeline(2019.12.1-2020.4.17).As China govt arrested people who archived reports on coronavirus, this project was left behind, the volunteers left for security reason. Let the world remember this epidemic and what CCP done.
 
-Copyright notice: This timeline was first published on January 26, and the time and content of writing and modification are recorded. Please quote the source for quotation, reprint and reference to the content of this project.
+Copyright notice: This timeline was first published on January 26, and the time and content of writing and modification are recorded. Please quote the source for quotation, reprint and reference to the content of this project.  [中文版本](./)
 <br> <a name="top"> [View the latest](# bottom) </a>
 
 ## December 1, 2019
