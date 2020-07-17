@@ -1,4 +1,4 @@
-Wuhan Coronavirus Timeline: How & When it Breakout and Spread
+Wuhan Coronavirus Timeline: How & When It Breakout and Spread
 ==============
 Wuhan Coronavirus Timeline(2019.12.1-2020.4.17).As China govt arrested people who archived reports on coronavirus, this project was left behind, the volunteers left for security reason. Let the world remember this epidemic and what CCP done.
 
