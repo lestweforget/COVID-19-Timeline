@@ -10,7 +10,7 @@ COVID-19-timeline
 
 ### *For English*
 
-# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline](https://covid19.forget.eu.org/en.html)
+# [From Wuhan to the World: Covid-19 Timeline](https://covid19.forget.eu.org/en.html)
 
 
 凡例
