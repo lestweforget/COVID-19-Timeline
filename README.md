@@ -3,16 +3,15 @@ COVID-19-timeline
 
 *说明：本项目已由于不知名原因，很多内容消失了（见[这里](https://github.com/jarrywangcn/wuhan2020-timeline)）。此为灾备保存版，更新周期：2020年1月26日至4月24日。感谢原有的志愿者的辛劳付出，lest we forget, and we will NOT. 欢迎关注另一[新闻备份项目](https://github.com/lestweforget/wuhan2019)*  
 
-[疫情与舆情：武汉肺炎时间线TIMELINE](https://covid19.forget.eu.org)  | [ENGLISH](https://covid19.forget.eu.org/en.html)
+[疫情与舆情：武汉肺炎时间线TIMELINE](https://covid19.forget.eu.org)  
 ===========================================================
 
-*Publish in [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/)*
+*In [Now.sh](https://covid-2019-timeline.now.sh/) and [Netlify](https://covid-2019-timeline.netlify.app/)*
 
 ### *For English*
 
-# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline](https://github.com/lestweforget/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md)
+# [Epidemic Situation and Public Opinion: New Coronary Pneumonia Timeline](https://covid19.forget.eu.org/en.html)
 
-([origin](https://github.com/sexychina/COVID-19-Timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.en.md))
 
 凡例
 ====
@@ -176,3 +175,7 @@ pr注意严格按照上述体例编写，以免时间线条目格式混乱！
 * [纽约华人资讯网 · 武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
 * [南都传媒·记疫](http://h5.oeeee.com/h5/v20/nCovTimeline/?from=groupmessage&isappinstalled=0&dt_platform=wechat_friends&dt_dapp=1)<br>
 * [史地刊讯 · 武汉新冠之疫史事日志（初稿）1](http://mp.weixin.qq.com/s?__biz=MzUzNzk4MDUyNw==&mid=2247487089&idx=1&sn=e5f748d642cfe8ad3c98a077bb76fab7&chksm=fadff571cda87c67b84706dfd287acee37862341ec00f4c200fa33918dc014d0282ee67bf46a&mpshare=1&scene=1&srcid=0409NhRKTgVFHRgtd5fYYJdP&sharer_sharetime=1586436829278&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)<br>
+
+## 友情链接
+
+公益社会类项目汇总： https://github.com/NodeBE4/impact/
